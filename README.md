@@ -39,7 +39,9 @@ Graduated with an emphasis in computer and information science in May 2021 with 
 Proficient in the use, troubleshooting, and repair of computer hardware and software. Functional knowledge of macOS, 
 Windows 7, 10, and 11, CentOS, and Android operating systems, as well as the Microsoft Office software suite. 
 Well-versed in the Java programming language with the ability to design, document, and debug command-line and 
-graphical desktop applications. Familiar with Python in an educational scope. Current courses of study include: 
+graphical desktop applications. Familiar with Python in an educational scope. 
+
+Current courses of study include: 
 full-stack application development with HTML, CSS, and JavaScript, including Node.js, Electron, and Express; data 
 structure and algorithmic analysis and addressing challenges with dynamic programming; and technical writing in the 
 scope of presenting information in an easily digestible digital format.
