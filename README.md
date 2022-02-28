@@ -5,7 +5,7 @@ management, and project management skills, seeking an internship as a software e
 
 ## Experience
 
-### Service Technician - Parkside Resale - Collinsville, IL
+### Consignment Specialist, Service Technician - Parkside Resale - Collinsville, IL
 
 Built and sold high-performance desktop computers meant for gaming, content creation, and multimedia production. 
 Purchased, serviced, and resold desktop computers and components, video game consoles and accessories, and other 
