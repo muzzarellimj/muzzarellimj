@@ -1,34 +1,33 @@
 # Hello! My name is Michael Muzzarelli.
 
-I am a senior applied software engineering student at Northern Kentucky University with strong communication, time 
-management, and project management skills, seeking an internship as a software engineer in Cincinnati or Northern 
-Kentucky.
+I am a full stack software engineer at [Fidelity](https://www.fidelity.com/) and senior student at Northern Kentucky
+University with strong communication, time management, and project management skills.
 
 ## Experience
 
-### [PodScholar](https://github.com/muzzarellimj/podscholar) - Northern Kentucky University
+### [PodScholars](https://podscholars.com/) - Northern Kentucky University
 
-Conduct research and development of PodScholar, a content distribution platform supporting the podcasting of research 
-and blending the consumption of digital media and scholarly research. Built with [Node.js](https://nodejs.dev/) using
-[Express](https://expressjs.com/) and [Mongoose](https://mongoosejs.com/) server-side and [Bootstrap](https://getbootstrap.com/) 
+Conduct research and development of a content distribution platform meant to blend the consumption of traditional
+digital media and scholarly research in a more casual, digestible medium: a podcast. Built with [Node.js](https://nodejs.dev/)
+using [Express](https://expressjs.com/) and [Jest](https://jestjs.io/) server-side and [Bootstrap](https://getbootstrap.com/)
 and [Mustache](https://github.com/janl/mustache.js/) client-side.
 
 ## Employment
 
-### Service Technician - Parkside Resale - Collinsville, IL
+### Full Stack Engineer - Fidelity Investments - Covington, KY
 
-Built, refurbished, and sold high-performance desktop computers and components optimal for video gaming, content 
-creation, and multimedia production. Managed a persistent inventory of hundreds of pieces of consumer technology.
+Research and support virtual assistant technologies within a digital user experience platform. Develop proactive insight
+strategies to better guide virtual assistant prompts and responses and facilitate a more intimate conversational 
+experience.
 
 ### Student Assistant, Tutor - Southwestern Illinois College - Belleville, IL
 
-Assisted in daily student success center opening and closing operations. Connected students with appropriate 
-course-specific peer tutors. Tutored students in undergraduate Java coursework by collaboratively reading presentations 
-and completing sample assignments.
+Connected students with appropriate course-specific peer tutors. Tutored students in undergraduate Java coursework by 
+collaboratively reading presentations and completing sample assignments.
 
 ## Education
 
-### Bachelor of Science - Northern Kentucky University - May 2023
+### Bachelor of Science - Northern Kentucky University - May 2024
 
 Applied software engineering major, computer science minor. Cumulative GPA of 3.9.
 
