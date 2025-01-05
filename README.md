@@ -1,6 +1,6 @@
 # Hello! My name is Michael Muzzarelli.
 
-I am software engineer at [Fidelity](https://www.fidelity.com/), a Certified Scrum Master (CSM), and a computer science student at the [Georgia Institute of Technology](https://www.gatech.edu/). I am passionate about applied technology, process automation, and coffee.
+I am a senior software engineer at [Fidelity](https://www.fidelity.com/) and a graduate computer science student at the [Georgia Institute of Technology](https://www.gatech.edu/). I am passionate about applied technology, process automation, and coffee.
 
 ## Experience
 
